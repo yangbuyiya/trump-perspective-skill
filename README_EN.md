@@ -38,7 +38,7 @@ It is an analysis and simulation artifact built from public materials.
 ### 1) Install
 
 ```bash
-npx skills add <your-org>/trump-perspective
+npx skills add yangbuyiya/trump-perspective-skill
 ```
 
 ### 2) Use in Claude Code
