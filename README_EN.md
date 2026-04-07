@@ -20,18 +20,6 @@ It is an analysis and simulation artifact built from public materials.
 
 ---
 
-## Why this repo is different
-
-Most Trump-style prompts only imitate tone. This project goes further:
-
-- **Behavior, not just wording**: extracts how Trump tends to judge, pressure, escalate, and reframe
-- **Two modes**: analyst mode for prediction, roleplay mode for style simulation
-- **Transparent research base**: ships with `6` research files for review and extension
-- **Runnable Skill**: core logic is embedded in `SKILL.md`, not buried in a one-off prompt
-- **Open-source friendly**: Chinese-first main README, plus a dedicated English README for global users
-
----
-
 ## At a glance
 
 | Item | Content |
