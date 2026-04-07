@@ -37,8 +37,6 @@ It is an analysis and simulation artifact built from public materials.
 
 ### 1) Install
 
-Replace the placeholder with your real GitHub repository path after publishing:
-
 ```bash
 npx skills add <your-org>/trump-perspective
 ```
