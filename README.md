@@ -58,8 +58,6 @@
 
 ### 1）安装
 
-发布到 GitHub 后，把占位符替换成你的真实仓库路径：
-
 ```bash
 npx skills add yangbuyiya/trump-perspective-skill
 ```
